@@ -49,7 +49,7 @@ Arch Linux를 사용해보며 설치한 패키지나 변경한 설정에 대한 
 <br/>
 
 <details>
-  <summary>열기 - sudo, user, aup </summary>
+  <summary>sudo, user, aup </summary>
 
   ### sudo (권한)
   ```
@@ -71,7 +71,7 @@ Arch Linux를 사용해보며 설치한 패키지나 변경한 설정에 대한 
 </details>
 
 <details>
-  <summary>열기 - GUI</summary>
+  <summary>GUI</summary>
 
   ### hypaland
   ```
